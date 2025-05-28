@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\davev\source\repos\OpenGL2025\VSProject\Opengl2025\Opengl2025\main.cpp(191,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\davev\source\repos\OpenGL2025\VSProject\Opengl2025\Opengl2025\main.cpp(241,18): warning C4244: 'initializing': conversion from 'float' to 'char', possible loss of data
+  Opengl2025.vcxproj -> C:\Users\davev\source\repos\OpenGL2025\VSProject\Opengl2025\x64\Debug\Opengl2025.exe

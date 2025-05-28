@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\davev\source\repos\OpenGL2025\VSProject\Opengl2025\Opengl2025\main.cpp(116,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\davev\source\repos\OpenGL2025\VSProject\Opengl2025\Opengl2025\main.cpp(199,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\davev\source\repos\OpenGL2025\VSProject\Opengl2025\Opengl2025\main.cpp(249,18): warning C4244: 'initializing': conversion from 'float' to 'char', possible loss of data
+  Generating code
+  1 of 782 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    7 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Opengl2025.vcxproj -> C:\Users\davev\source\repos\OpenGL2025\VSProject\Opengl2025\x64\Release\Opengl2025.exe

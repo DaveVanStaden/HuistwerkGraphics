@@ -1,0 +1,5 @@
+﻿  glad.c
+  main.cpp
+C:\Users\davev\source\repos\OpenGL2025\Inlevering\CubeOpdracht\VSProject\Opengl2025\Opengl2025\main.cpp(78,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\davev\source\repos\OpenGL2025\Inlevering\CubeOpdracht\VSProject\Opengl2025\Opengl2025\main.cpp(79,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Opengl2025.vcxproj -> C:\Users\davev\source\repos\OpenGL2025\Inlevering\CubeOpdracht\VSProject\Opengl2025\x64\Debug\Opengl2025.exe

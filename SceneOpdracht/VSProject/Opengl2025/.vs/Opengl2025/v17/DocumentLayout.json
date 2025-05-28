@@ -1,0 +1,175 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\davev\\source\\repos\\OpenGL2025\\VSProject\\Opengl2025\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD274BD-64C8-4F48-9147-02D26D9C9DF9}|Opengl2025\\Opengl2025.vcxproj|C:\\Users\\davev\\source\\repos\\OpenGL2025\\VSProject\\Opengl2025\\Opengl2025\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CBD274BD-64C8-4F48-9147-02D26D9C9DF9}|Opengl2025\\Opengl2025.vcxproj|solutionrelative:Opengl2025\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD274BD-64C8-4F48-9147-02D26D9C9DF9}|Opengl2025\\Opengl2025.vcxproj|C:\\Users\\davev\\source\\repos\\OpenGL2025\\VSProject\\Opengl2025\\Opengl2025\\shaders\\model.fs||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{CBD274BD-64C8-4F48-9147-02D26D9C9DF9}|Opengl2025\\Opengl2025.vcxproj|solutionrelative:Opengl2025\\shaders\\model.fs||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD274BD-64C8-4F48-9147-02D26D9C9DF9}|Opengl2025\\Opengl2025.vcxproj|C:\\Users\\davev\\source\\repos\\OpenGL2025\\VSProject\\Opengl2025\\Opengl2025\\shaders\\model.vs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CBD274BD-64C8-4F48-9147-02D26D9C9DF9}|Opengl2025\\Opengl2025.vcxproj|solutionrelative:Opengl2025\\shaders\\model.vs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD274BD-64C8-4F48-9147-02D26D9C9DF9}|Opengl2025\\Opengl2025.vcxproj|C:\\Users\\davev\\source\\repos\\OpenGL2025\\VSProject\\Opengl2025\\Opengl2025\\shaders\\terrainFragment.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{CBD274BD-64C8-4F48-9147-02D26D9C9DF9}|Opengl2025\\Opengl2025.vcxproj|solutionrelative:Opengl2025\\shaders\\terrainFragment.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD274BD-64C8-4F48-9147-02D26D9C9DF9}|Opengl2025\\Opengl2025.vcxproj|C:\\Users\\davev\\source\\repos\\OpenGL2025\\VSProject\\Opengl2025\\Opengl2025\\shaders\\skyVertex.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{CBD274BD-64C8-4F48-9147-02D26D9C9DF9}|Opengl2025\\Opengl2025.vcxproj|solutionrelative:Opengl2025\\shaders\\skyVertex.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD274BD-64C8-4F48-9147-02D26D9C9DF9}|Opengl2025\\Opengl2025.vcxproj|C:\\Users\\davev\\source\\repos\\OpenGL2025\\VSProject\\Opengl2025\\Opengl2025\\shaders\\skyFragment.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{CBD274BD-64C8-4F48-9147-02D26D9C9DF9}|Opengl2025\\Opengl2025.vcxproj|solutionrelative:Opengl2025\\shaders\\skyFragment.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD274BD-64C8-4F48-9147-02D26D9C9DF9}|Opengl2025\\Opengl2025.vcxproj|C:\\Users\\davev\\source\\repos\\OpenGL2025\\VSProject\\Opengl2025\\Opengl2025\\shaders\\terrainVertex.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{CBD274BD-64C8-4F48-9147-02D26D9C9DF9}|Opengl2025\\Opengl2025.vcxproj|solutionrelative:Opengl2025\\shaders\\terrainVertex.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD274BD-64C8-4F48-9147-02D26D9C9DF9}|Opengl2025\\Opengl2025.vcxproj|C:\\Users\\davev\\source\\repos\\OpenGL2025\\VSProject\\Opengl2025\\Opengl2025\\shaders\\simpleFragment.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{CBD274BD-64C8-4F48-9147-02D26D9C9DF9}|Opengl2025\\Opengl2025.vcxproj|solutionrelative:Opengl2025\\shaders\\simpleFragment.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD274BD-64C8-4F48-9147-02D26D9C9DF9}|Opengl2025\\Opengl2025.vcxproj|C:\\Users\\davev\\source\\repos\\OpenGL2025\\VSProject\\Opengl2025\\Opengl2025\\shaders\\simpleVertex.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{CBD274BD-64C8-4F48-9147-02D26D9C9DF9}|Opengl2025\\Opengl2025.vcxproj|solutionrelative:Opengl2025\\shaders\\simpleVertex.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\davev\\source\\repos\\OpenGL2025\\VSProject\\Opengl2025\\Opengl2025\\main.cpp",
+              "RelativeDocumentMoniker": "Opengl2025\\main.cpp",
+              "ToolTip": "C:\\Users\\davev\\source\\repos\\OpenGL2025\\VSProject\\Opengl2025\\Opengl2025\\main.cpp",
+              "RelativeToolTip": "Opengl2025\\main.cpp",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAHUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-28T00:24:39.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "simpleFragment.shader",
+              "DocumentMoniker": "C:\\Users\\davev\\source\\repos\\OpenGL2025\\VSProject\\Opengl2025\\Opengl2025\\shaders\\simpleFragment.shader",
+              "RelativeDocumentMoniker": "Opengl2025\\shaders\\simpleFragment.shader",
+              "ToolTip": "C:\\Users\\davev\\source\\repos\\OpenGL2025\\VSProject\\Opengl2025\\Opengl2025\\shaders\\simpleFragment.shader",
+              "RelativeToolTip": "Opengl2025\\shaders\\simpleFragment.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2025-05-27T14:08:16.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "simpleVertex.shader",
+              "DocumentMoniker": "C:\\Users\\davev\\source\\repos\\OpenGL2025\\VSProject\\Opengl2025\\Opengl2025\\shaders\\simpleVertex.shader",
+              "RelativeDocumentMoniker": "Opengl2025\\shaders\\simpleVertex.shader",
+              "ToolTip": "C:\\Users\\davev\\source\\repos\\OpenGL2025\\VSProject\\Opengl2025\\Opengl2025\\shaders\\simpleVertex.shader",
+              "RelativeToolTip": "Opengl2025\\shaders\\simpleVertex.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2025-05-27T14:08:17.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "skyVertex.shader",
+              "DocumentMoniker": "C:\\Users\\davev\\source\\repos\\OpenGL2025\\VSProject\\Opengl2025\\Opengl2025\\shaders\\skyVertex.shader",
+              "RelativeDocumentMoniker": "Opengl2025\\shaders\\skyVertex.shader",
+              "ToolTip": "C:\\Users\\davev\\source\\repos\\OpenGL2025\\VSProject\\Opengl2025\\Opengl2025\\shaders\\skyVertex.shader",
+              "RelativeToolTip": "Opengl2025\\shaders\\skyVertex.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2025-05-27T21:31:01.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "skyFragment.shader",
+              "DocumentMoniker": "C:\\Users\\davev\\source\\repos\\OpenGL2025\\VSProject\\Opengl2025\\Opengl2025\\shaders\\skyFragment.shader",
+              "RelativeDocumentMoniker": "Opengl2025\\shaders\\skyFragment.shader",
+              "ToolTip": "C:\\Users\\davev\\source\\repos\\OpenGL2025\\VSProject\\Opengl2025\\Opengl2025\\shaders\\skyFragment.shader",
+              "RelativeToolTip": "Opengl2025\\shaders\\skyFragment.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2025-05-27T21:31:00.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "terrainVertex.shader",
+              "DocumentMoniker": "C:\\Users\\davev\\source\\repos\\OpenGL2025\\VSProject\\Opengl2025\\Opengl2025\\shaders\\terrainVertex.shader",
+              "RelativeDocumentMoniker": "Opengl2025\\shaders\\terrainVertex.shader",
+              "ToolTip": "C:\\Users\\davev\\source\\repos\\OpenGL2025\\VSProject\\Opengl2025\\Opengl2025\\shaders\\terrainVertex.shader",
+              "RelativeToolTip": "Opengl2025\\shaders\\terrainVertex.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2025-05-27T23:51:40.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "terrainFragment.shader",
+              "DocumentMoniker": "C:\\Users\\davev\\source\\repos\\OpenGL2025\\VSProject\\Opengl2025\\Opengl2025\\shaders\\terrainFragment.shader",
+              "RelativeDocumentMoniker": "Opengl2025\\shaders\\terrainFragment.shader",
+              "ToolTip": "C:\\Users\\davev\\source\\repos\\OpenGL2025\\VSProject\\Opengl2025\\Opengl2025\\shaders\\terrainFragment.shader",
+              "RelativeToolTip": "Opengl2025\\shaders\\terrainFragment.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2025-05-27T23:04:57.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "model.fs",
+              "DocumentMoniker": "C:\\Users\\davev\\source\\repos\\OpenGL2025\\VSProject\\Opengl2025\\Opengl2025\\shaders\\model.fs",
+              "RelativeDocumentMoniker": "Opengl2025\\shaders\\model.fs",
+              "ToolTip": "C:\\Users\\davev\\source\\repos\\OpenGL2025\\VSProject\\Opengl2025\\Opengl2025\\shaders\\model.fs",
+              "RelativeToolTip": "Opengl2025\\shaders\\model.fs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-28T17:12:38.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "model.vs",
+              "DocumentMoniker": "C:\\Users\\davev\\source\\repos\\OpenGL2025\\VSProject\\Opengl2025\\Opengl2025\\shaders\\model.vs",
+              "RelativeDocumentMoniker": "Opengl2025\\shaders\\model.vs",
+              "ToolTip": "C:\\Users\\davev\\source\\repos\\OpenGL2025\\VSProject\\Opengl2025\\Opengl2025\\shaders\\model.vs",
+              "RelativeToolTip": "Opengl2025\\shaders\\model.vs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-28T17:12:38.955Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
